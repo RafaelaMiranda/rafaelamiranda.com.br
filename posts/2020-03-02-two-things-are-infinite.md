@@ -3,7 +3,7 @@ date: 2015-03-02 10:28:00
 title: Two things are infinite
 description: And I'm not sure about the universe
 category: Misc
-background: "#7AAB13"
+background: "purple"
 ---
 
 # An h1 header
